@@ -2,7 +2,7 @@
 
 - ⏳ ML developer
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2> 
+<h2 align="left">:hammer_and_wrench: Tech Stack:</h2> 
 
 <a href="https://www.python.org/">
   <img align="left" alt="Python" height="50px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
