@@ -60,7 +60,7 @@
 <a href="https://github.com/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenemezz&hide=TeX&layout=compact&theme=nightowl&background=000000" height="163"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thenemezz&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl" height="163" />
-</a>
+</a> -->
 </p>
