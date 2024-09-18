@@ -1,4 +1,4 @@
-### 🌿 About me:
+![telegram-cloud-photo-size-2-5429269499359649803-y](https://github.com/user-attachments/assets/def6ee80-1469-4906-af42-52b040c276eb)### 🌿 About me:
 
 - ⏳ ML developer
 
@@ -43,7 +43,19 @@
 </br>
 </br>
 </br> 
- 
+
+ <h2 align="left">💻 Some statistics:</h2>
+
+ <p align="center">
+<a href="https://github.com/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenemezz&hide=TeX&layout=compact&theme=nightowl&background=000000" height="163"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thenemez&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl" height="163" />
+</a>
+</p>
+
+
  
 
 </p>
