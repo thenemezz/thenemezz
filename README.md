@@ -64,19 +64,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thenemezz&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl" height="163" />
 </a>
 </p>
-
-
- 
-
-</p>
-
-### You can contact me
-
----
-
-<p align="center">
-   <a href="https://t.me/thenemez" target="_blank" style='margin-right:10px'>
-    <img align="center" style="margin-right:5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" width="50px" />
-  </a>
-  &nbsp;&nbsp;
-</p>
