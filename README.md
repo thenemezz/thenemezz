@@ -1,3 +1,13 @@
+<div id="header" align="center">
+    <h1>Hi there, I'm  Sergey </h1>
+</div>
+
+<div id="socials" align="center">
+  <a href="https://t.me/thenemez">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
+
 ### 🌿 About me:
 
 - ⏳ ML developer
@@ -51,7 +61,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenemezz&hide=TeX&layout=compact&theme=nightowl&background=000000" height="163"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thenemez&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl" height="163" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thenemezz&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl" height="163" />
 </a>
 </p>
 
