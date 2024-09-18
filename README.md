@@ -40,9 +40,7 @@
   <img align="left" alt="Scikit-learn" height="50px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 </a>
 
-
-
-
+<div style="clear: both;"></div>
 
 ### You can contact me
 
@@ -57,7 +55,3 @@
   </a>
   &nbsp;&nbsp;
 </p>
-
-
-
-
