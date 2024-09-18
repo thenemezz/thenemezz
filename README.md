@@ -23,3 +23,22 @@
 <a href="https://git-scm.com/">
   <img align="left" alt="Git" height="50px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 </a>
+
+<a href="https://jupyter.org/">
+  <img align="left" alt="Jupyter" height="50px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" />
+</a>
+
+<a href="https://numpy.org/">
+  <img align="left" alt="NumPy" height="50px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" />
+</a>
+
+<a href="https://pandas.pydata.org/">
+  <img align="left" alt="Pandas" height="50px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />
+</a>
+
+<a href="https://scikit-learn.org/">
+  <img align="left" alt="Scikit-learn" height="50px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+</a>
+
+
+
