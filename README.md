@@ -1,4 +1,4 @@
-![telegram-cloud-photo-size-2-5429269499359649803-y](https://github.com/user-attachments/assets/def6ee80-1469-4906-af42-52b040c276eb)### 🌿 About me:
+### 🌿 About me:
 
 - ⏳ ML developer
 
