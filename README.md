@@ -4,6 +4,22 @@
 
 ### Tech Stack:
 
-![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<a href="https://www.python.org/">
+  <img align="left" alt="Python" height="50px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+</a>
+
+<a href="https://www.linux.org/">
+  <img align="left" alt="Linux" height="50px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+</a>
+
+<a href="https://www.postgresql.org/"> 
+  <img align="left" alt="PostgreSQL" height="50px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+</a>
+
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <img align="left" alt="C" height="50px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+</a>
+
+<a href="https://git-scm.com/">
+  <img align="left" alt="Git" height="50px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+</a>
