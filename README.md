@@ -50,10 +50,13 @@
   <img align="left" alt="Scikit-learn" height="50px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 </a>
 
+<a href="https://www.docker.com/">
+  <img align="left" alt="Docker" height="50px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+</a>
+
 </br>
 </br>
 </br> 
-
  <h2 align="left">💻 Some statistics:</h2>
 
  <p align="center">
