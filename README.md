@@ -61,11 +61,6 @@
 <h2 align="left">💻 Some statistics:</h2>
 
 <p align="center">
-<a href="https://github.com/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenemezz&hide=TeX&layout=compact&theme=nightowl&background=000000" height="163"/>
-</a>
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/thenemezz?hide=ranking&theme=dark" alt="LeetCode Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenemezz&hide=TeX&layout=compact&theme=nightowl&background=000000" height="163"/>
+  <img src="https://leetcard.jacoblin.cool/thenemezz?hide=ranking&theme=dark" height="163" />
 </p>
