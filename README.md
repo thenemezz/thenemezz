@@ -63,6 +63,12 @@
 <a href="https://github.com/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenemezz&hide=TeX&layout=compact&theme=nightowl&background=000000" height="163"/>
 </a>
+<div id="stats">
+    <h2>📈 Stats</h2>
+    <img src="https://leetcard.jacoblin.cool/thenemezz?hide=ranking,theme=dark" alt="LeetCode Stats" title="LeetCode Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenemezz&layout=compact&theme=tokyonight" alt="Top Languages" title="Top Languages">
+</div>
+
 <!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thenemezz&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl" height="163" />
 </a> -->
