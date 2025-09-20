@@ -10,7 +10,7 @@
 
 ### 🌿 About me:
 
-- ⏳ ML developer
+- ⏳ NLP/LLM data scientist
 
 <h2 align="left">:hammer_and_wrench: Tech Stack:</h2> 
 
