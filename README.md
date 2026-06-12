@@ -10,53 +10,31 @@
 
 ### 🌿 About me:
 
-- ⏳ NLP/LLM data scientist
+* ⏳ NLP/LLM Data Scientist
 
-<h2 align="left">:hammer_and_wrench: Tech Stack:</h2> 
+<h2 align="left">:hammer_and_wrench: Tech Stack:</h2>
 
-<a href="https://www.python.org/">
-  <img align="left" alt="Python" height="50px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-</a>
+### Core
 
-<a href="https://www.linux.org/">
-  <img align="left" alt="Linux" height="50px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-</a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
 
-<a href="https://www.postgresql.org/"> 
-  <img align="left" alt="PostgreSQL" height="50px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
-</a>
+### ML / NLP / LLM
 
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-  <img align="left" alt="C" height="50px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-</a>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge\&logo=mlflow\&logoColor=white)
 
-<a href="https://git-scm.com/">
-  <img align="left" alt="Git" height="50px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-</a>
+### Data & Infrastructure
 
-<a href="https://jupyter.org/">
-  <img align="left" alt="Jupyter" height="50px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" />
-</a>
-
-<a href="https://numpy.org/">
-  <img align="left" alt="NumPy" height="50px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" />
-</a>
-
-<a href="https://pandas.pydata.org/">
-  <img align="left" alt="Pandas" height="50px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />
-</a>
-
-<a href="https://scikit-learn.org/">
-  <img align="left" alt="Scikit-learn" height="50px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-</a>
-
-<a href="https://www.docker.com/">
-  <img align="left" alt="Docker" height="50px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-</a>
-
-</br>
-</br>
-</br> 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge\&logo=qdrant\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
 
 <!--
 <h2 align="left">💻 Some statistics:</h2>
@@ -66,4 +44,3 @@
   <img src="https://leetcard.jacoblin.cool/thenemezz?hide=ranking&theme=dark" height="163" />
 </p>
 -->
-
